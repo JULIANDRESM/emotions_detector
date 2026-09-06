@@ -1,4 +1,6 @@
-# Final Project - Emotion Detection Application (oaqjp-final-project-emb-ai)
+
+
+# Final Project name - Emotion Detection Application (oaqjp-final-project-emb-ai)
 
 ## Project Overview
 This repository contains the completed **Final Project: Emotion Detection Application** (`oaqjp-final-project-emb-ai`) for the IBM Back-End Application Development with Python and Flask curriculum.
