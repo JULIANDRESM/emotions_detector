@@ -20,7 +20,7 @@ def sent_detector():
 
     # Check for invalid text / blank input
     if response['dominant_emotion'] is None:
-        return "Invalid text! Please try again."
+        return "Invalid text! Please try again!"
 
     # Extract the emotion scores and dominant emotion
     anger = response['anger']
